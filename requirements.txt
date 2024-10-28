@@ -10,6 +10,7 @@ cloudscraper
 deepai
 daxxhub
 dnspython
+dotenv
 emojis
 ffmpeg-python
 Faker
