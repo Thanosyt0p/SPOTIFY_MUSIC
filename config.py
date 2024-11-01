@@ -9,8 +9,8 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID", "27731023"))
-API_HASH = getenv("API_HASH", "e5533bd0cafa7bfa95205b2aaed57bcb")
+API_ID = int(getenv("API_ID", "22169867"))
+API_HASH = getenv("API_HASH", "cb5d60ad1402ce922d53bc500abd20df")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", "6333624410:AAE80MnoUMn56KkpzpY1uF5t2VQrgrzbfbY")
 # -------------------------------------------------------
@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "rajofbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Tʀᴏʟʟ music")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Rohit")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Ironmanhindigaming")
 # ---------------------------------------------------------
 
 
@@ -116,7 +116,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", "BQBCE9_aDNBOND7LnSuLpVxQ_5CT_VM1_WtUKHgnkMhxCXBQIGSad-3k3nI5EnIJ94k8Eg1N-9GR9iP34Mkfz8MJQXcGJ-FsfBjdpcHXK0uxMChockwbmuUS-RhCC7etivT2q0c1Ta2egTMRCSMW5KE0mVg3oiI96don-ZzdtAxnDRNFuCKUPjlDQCZWqiZhOjnDByQxbfj1EorfnkXKlxOLxRFp5GDT1C76CsiGUu5d8GVmI7RjUyHcIMeNYq4Gv2aXTq0yhPoHv5IsD-FnEFPKoycRI9LnlHiIcHzSibRGyLdQuWbeAwbKTgFldS4gkz9fBIjIXKrhJr-gxqCGtNgoAAAAAY-q97QA")
+STRING1 = getenv("STRING_SESSION", "BQFSSQsAGgLRkEbB5gzix6_dUkax79-zDy5JJpRWUh_5fmnfwO5HjcShJp2Az9u-YrtMlpDYls0sPQmTTJdiBFss8TUZyvYRye20DkNm7VpG06k8dU5nZyIxH5rOs9dCIoZ0nTW9TnZ4P31mh8gD3878UvzbiHC83SYFnJa3mcu9f02WbJ3gMsJm-2a4picaABdwcwErWnsaQBi38YBuUTZCCYvG4Q8JY4Pcwtnl13h4PebJHR-LOWZLSgpk2jkxtnYGmMyrnJKiClizoW6t4vqGjdCBjFmNlu0q9CrZiyaNQQuLiUh5SsK_nTpQEom_TB74tkluEdZfk1Bo24kUUGfLrzIusAAAAAGmYUcyAA")
 BANNED_USERS = filters.user()
 adminlist = {}
 lyrical = {}
